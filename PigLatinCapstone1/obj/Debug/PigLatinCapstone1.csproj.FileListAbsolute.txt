@@ -1,0 +1,7 @@
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\bin\Debug\PigLatinCapstone1.exe.config
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\bin\Debug\PigLatinCapstone1.exe
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\bin\Debug\PigLatinCapstone1.pdb
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\obj\Debug\PigLatinCapstone1.csprojResolveAssemblyReference.cache
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\obj\Debug\PigLatinCapstone1.csproj.CoreCompileInputs.cache
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\obj\Debug\PigLatinCapstone1.exe
+C:\Users\nelto\source\repos\PigLatinCapstone1\PigLatinCapstone1\obj\Debug\PigLatinCapstone1.pdb
